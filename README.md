@@ -27,11 +27,11 @@ Activate the theme by adding the following lines to your user preferences config
 
 ### Theme
 
-Theme based on the original Blackboard theme for TextMate.
+Theme based on the original Blackboard theme for TextMate. Features a soft, dark brown color that is easy on the eyes for long coding sessions. Hot pink comments beg to be deleted or read.
 
 ### Color scheme
 
-Features a soft, dark brown color that is easy on the eyes for long coding sessions. Hot pink comments beg to be deleted or read.
+Matches the theme for maximum immersion.
 
 
 ### Contributing
