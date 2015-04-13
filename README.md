@@ -21,6 +21,10 @@ Activate the theme by adding the following lines to your user preferences config
       "color_scheme": "Packages/Neopolitan/Neopolitan.tmTheme",
       "theme": "Neopolitan.sublime-theme",
       
+[RubyTest](https://packagecontrol.io/packages/RubyTest) users may also enjoy the provided test console theme for consistency:
+
+      "theme": "Packages/Neopolitan/NeopolitanTestConsole.tmTheme"
+      
 ### Screenshots
 
 ![Neopolitan screenshot](https://raw.githubusercontent.com/daytonn/Neopolitan/master/screenshot.png "Neopolitan screenshot")
